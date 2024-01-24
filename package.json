@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ahmo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
